@@ -1,7 +1,8 @@
 ---
-path: "/blog/quarta-pagina"
-title: "quarta página de teste"
-description: "quarta página"
+path: /blog/quarta-pagina
+title: quarta página de teste
+description: quarta página
+banner: image3.jpg
 ---
 
 Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, [bibendum](http://google.com) eu pulvinar vel, sodales vitae dui.
