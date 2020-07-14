@@ -9,6 +9,13 @@ module.exports = {
         name: "pages",
       },
     },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        path: __dirname + "/src/authors",
+        name: "authors",
+      },
+    },
     // "gatsby-transformer-remark",
     {
       resolve: "gatsby-transformer-remark",
