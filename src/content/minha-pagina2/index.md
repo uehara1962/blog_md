@@ -1,7 +1,8 @@
 ---
-path: "/blog/outra-pagina"
-title: "Outra página de teste"
-description: "esta é a descrição"
+path: /blog/outra-pagina
+title: Outra página de teste
+description: esta é a descrição
+banner: image2.jpg
 ---
 
 # Outra página
